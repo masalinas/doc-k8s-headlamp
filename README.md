@@ -28,3 +28,7 @@ Select a cluster from list
 
 List nodes for your cluster selected
 ![Cluster nodes](images/cluster-nodes.png)
+
+Map view
+![Clusterer Map view](images/map-view.png)
+

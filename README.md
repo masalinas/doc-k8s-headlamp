@@ -24,7 +24,7 @@ http://localhost:4466
 ```
 
 Select a cluster from list
-[Cluster señected](images/clusters-list.png)
+![Cluster señected](images/clusters-list.png)
 
 List nodes for your cluster selected
-[Cluster nodes](images/cluster-nodes.png)
+![Cluster nodes](images/cluster-nodes.png)

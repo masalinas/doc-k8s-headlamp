@@ -23,3 +23,8 @@ docker run --name headlamp -d \
 http://localhost:4466
 ```
 
+Select a cluster from list
+[Cluster señected](images/clusters-list.png)
+
+List nodes for your cluster selected
+[Cluster nodes](images/cluster-nodes.png)
